@@ -1,0 +1,6 @@
+{
+  "stripe_api_key": "YOUR_STRIPE_API_KEY",
+  "spreadsheet_id": "YOUR_SPREADSHEET_ID",
+  "sheet_id": "YOUR_SHEET_ID",
+  "google_cloud_creds_path": "/path/to/your/creds.json"
+}

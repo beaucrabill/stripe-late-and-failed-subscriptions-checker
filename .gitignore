@@ -1,0 +1,17 @@
+# Ignore sensitive files
+creds.json
+.env
+config.json
+
+# Ignore common Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
